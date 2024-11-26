@@ -20,7 +20,7 @@ The models were selected based on accuracy and performance, where Linear Regress
 - [License](#license)
 
 ## Application Screenshot
-![App Interface](image.png)
+![Screenshot 2024-11-25 205556](https://github.com/user-attachments/assets/c9cf6931-3f2b-4878-9d79-ba1de2efce47)
 
 ## Technologies Used
 - **Python**: Backend programming language used to create the models and application logic.
@@ -68,7 +68,4 @@ HEALTHCARE_PREMIUM/
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to explore and contribute to the project by creating issues, pull requests, or by reaching out for collaboration.
 
