@@ -1,6 +1,6 @@
 # Health Insurance Cost Predictor
 
-![Health Insurance Cost Predictor UI](https://healthcarepremium.streamlit.app)
+[(https://healthcarepremium.streamlit.app)](https://healthcarepremium.streamlit.app/)
 
 ## Overview
 The Health Insurance Cost Predictor is a web-based application designed to predict health insurance premiums based on a variety of user input factors. The application is built using a public dataset and developed with a combination of Streamlit, Python, and machine learning models. This project focuses on predicting the health insurance cost based on several factors like age, gender, smoking status, region, and more.
